@@ -4,4 +4,8 @@
 
 ### Vias de contacto
 
-![Website](https://www.linkedin.com/in/stiven-fory-a04a73264)
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fstiven-fory-a04a73264%2F)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/stivenfory/stivenfory)
+
