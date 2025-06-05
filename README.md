@@ -9,3 +9,5 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/stivenfory/stivenfory)
 
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
